@@ -12,7 +12,7 @@ echo "$(cat kubectl.sha256)  kubectl" | sha256sum --check <br/>
 
 sudo install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl <br/>
 
-kubectl version --client <br/>
+kubectl version --client --output=yaml <br/>
 
 
 ## Installing Minikube
@@ -26,3 +26,9 @@ sudo mkdir -p /usr/local/bin/ <br/>
 sudo install minikube /usr/local/bin/ <br/>
 
 minikube start <br/>
+
+## Command
+
+minikube status <br/>
+
+"minikube ssh" to log into the Minikube VM<br/>
