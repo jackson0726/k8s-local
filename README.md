@@ -33,4 +33,4 @@ minikube status <br/>
 
 "minikube ssh" to log into the Minikube VM<br/>
 
-export KUBECONFIG=~/.kube/config:<other config files> <br/>
+export KUBECONFIG=~/.kube/config:[other config files] <br/>
