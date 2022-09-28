@@ -39,5 +39,7 @@ https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-mul
 
 https://kubernetes.io/vi/docs/reference/kubectl/cheatsheet/ <br/>
 
+https://kind.sigs.k8s.io/docs/user/configuration/  <br/>
+
 
 
