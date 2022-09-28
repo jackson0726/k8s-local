@@ -1,5 +1,7 @@
 # k8s-local
 
+## [K8s Doc](https://docs.google.com/document/d/1aKzFYgPrg7sap1bfFslLkKp63T4SZwxqDsHJqZFHusg/)
+
 ## Installing kubectl
 
 [Link install](https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/)
