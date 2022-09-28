@@ -34,3 +34,10 @@ minikube status <br/>
 "minikube ssh" to log into the Minikube VM<br/>
 
 export KUBECONFIG=~/.kube/config:[other config files] <br/>
+
+https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/ <br/>
+
+https://kubernetes.io/vi/docs/reference/kubectl/cheatsheet/ <br/>
+
+
+
