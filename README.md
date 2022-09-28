@@ -33,4 +33,4 @@ minikube status <br/>
 
 "minikube ssh" to log into the Minikube VM<br/>
 
-https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/ <br/>
+export KUBECONFIG=~/.kube/config:<other config files> <br/>
